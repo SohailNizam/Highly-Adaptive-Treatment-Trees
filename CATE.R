@@ -1,6 +1,11 @@
 # General implementation of HTE (CATE and OTP) estimation
 # With K = 2 arms
-
+library(MASS)
+library(hal9001)
+library(caret)
+library(SuperLearner)
+library(ranger)
+library(xgboost)
 
 
 
