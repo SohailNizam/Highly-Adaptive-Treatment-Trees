@@ -34,4 +34,10 @@ To build a HATT, first use either CATE.R or multiarm_CATE.R to produce a CATE es
 
 ### Dependencies (R)
 
+* MASS
+* caret
+* fastDummies
+* hal9001
+* SuperLearner
+* Libraries for other learners you want (e.g. xgboost, ranger)
 
